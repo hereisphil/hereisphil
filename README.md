@@ -3,11 +3,9 @@
 Welcome to my GitHub profile.  
 I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI bootcamp student with **@4GeeksAcademy** 🧠
 
-> _Last Update: August 28, 2025_
+> _Last Update: August 29, 2025_
 
 ---
-
-## 🧠 How I code
 
 ### Strengths
 
@@ -21,8 +19,6 @@ I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI boo
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnubash&logoColor=white)
 
----
-
 ### Currently Learning
 
 ![DOM](https://img.shields.io/badge/DOM--Manipulation-264de4?style=flat&logo=javascript&logoColor=white)
@@ -33,8 +29,6 @@ I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI boo
 ![Fetch API](https://img.shields.io/badge/Fetch%20API-5C6BC0?style=flat&logo=javascript&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 
----
-
 ### Experienced With
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -43,8 +37,6 @@ I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI boo
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
----
 
 ### Familiar With
 
@@ -56,17 +48,15 @@ I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI boo
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
----
-
 ## 🚀 Simple Projects
 
-| Project                                                                                                             | Description                                               |
-| ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 🎯 [Excuse Generator](https://github.com/hereisphil/excuse-generator)                                               | Simple CSS project built for fun – part of 4Geeks prework |
-| 📸 [Instagram Post Layout](https://github.com/hereisphil/hereisphil-instagram-post-layout)                          | Semantic HTML + CSS layout inspired by Instagram          |
-| 🖼️ [Instagram Photo Feed (Bootstrap)](https://github.com/hereisphil/hereisphil-instagram-photo-feed-with-bootstrap) | Responsive photo grid built with Bootstrap                |
-| 💳 [Bootstrap Payment Form](https://github.com/hereisphil/html5-bootstrap-form)                                     | Mobile-friendly payment form UI                           |
-| 🎧 [Subtitle Sync Player](https://github.com/hereisphil/subtitle-sync-player)                                       | Custom MP3 + SRT sync tool with TypeScript frontend logic |
+| Project                                                                                                             | Description                                              |
+| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| ✅ [To-do List App](https://github.com/hereisphil/todo-list)                                                        | A browser To-Do List app with JavaScript localStorage    |
+| 🎯 [Excuse Generator](https://github.com/hereisphil/excuse-generator)                                               | Simple JS project built for fun – part of 4Geeks prework |
+| 📸 [Instagram Post Layout](https://github.com/hereisphil/hereisphil-instagram-post-layout)                          | Semantic HTML + CSS layout inspired by Instagram         |
+| 🖼️ [Instagram Photo Feed (Bootstrap)](https://github.com/hereisphil/hereisphil-instagram-photo-feed-with-bootstrap) | Responsive photo grid built with Bootstrap               |
+| 💳 [Bootstrap Payment Form](https://github.com/hereisphil/html5-bootstrap-form)                                     | Mobile-friendly payment form UI                          |
 
 ---
 
