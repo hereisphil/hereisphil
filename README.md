@@ -70,6 +70,23 @@ I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI boo
 
 ---
 
+## 📘 Education
+
+**4Geeks Academy** (Online)  
+_Certificate in Full Stack Development with AI_
+Expected Graduation: Nov 2025
+
+**Full Sail University** (Online)  
+_Bachelor of Science in Web Design & Development_
+Expected Graduation: Feb 2027  
+GPA: 3.9
+
+**Le Cordon Bleu College of Culinary Arts** – Scottsdale, AZ  
+_Associate of Occupational Studies, Culinary Arts_
+Graduated: August 2024
+
+---
+
 ## 📬 Reach Me
 
 - 📧 <thereisphil@gmail.com>
