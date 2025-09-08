@@ -3,7 +3,7 @@
 Welcome to my GitHub profile.  
 I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI bootcamp student with **@4GeeksAcademy** 🧠
 
-> _Last Update: August 29, 2025_
+> _Last Update: September 8, 2025_
 
 ---
 
@@ -11,7 +11,11 @@ I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI boo
 
 ![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML5-E44D26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![DOM](https://img.shields.io/badge/DOM--Manipulation-264de4?style=flat&logo=javascript&logoColor=white)
+![Fetch API](https://img.shields.io/badge/Fetch%20API-5C6BC0?style=flat&logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Team Collaboration](https://img.shields.io/badge/GitHub%20Teams-%232C3E50?style=flat&logo=github&logoColor=white)
@@ -21,12 +25,11 @@ I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI boo
 
 ### Currently Learning
 
-![DOM](https://img.shields.io/badge/DOM--Manipulation-264de4?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST--API-009688?style=flat&logo=apachespark&logoColor=white)
 ![Async/Await](https://img.shields.io/badge/Async/Await-000000?style=flat&logo=javascript&logoColor=white)
-![Fetch API](https://img.shields.io/badge/Fetch%20API-5C6BC0?style=flat&logo=javascript&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 
 ### Experienced With
@@ -52,6 +55,7 @@ I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI boo
 
 | Project                                                                                                             | Description                                              |
 | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 👨‍💻 [ReactJS App](https://github.com/hereisphil/react-avocado-app)                                                   | ReactJS social-media-style SPA (under development)       |
 | ✅ [To-do List App](https://github.com/hereisphil/todo-list)                                                        | A browser To-Do List app with JavaScript localStorage    |
 | 🎯 [Excuse Generator](https://github.com/hereisphil/excuse-generator)                                               | Simple JS project built for fun – part of 4Geeks prework |
 | 📸 [Instagram Post Layout](https://github.com/hereisphil/hereisphil-instagram-post-layout)                          | Semantic HTML + CSS layout inspired by Instagram         |
