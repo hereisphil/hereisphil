@@ -1,9 +1,20 @@
-# 👋 Hi, I'm Phillip Cantu
+<h1 align="center">Hi 👋, I'm Phillip Cantu</h1>
+<h3 align="center">Full-stack web developer with experience in React.js, Node.js, TypeScript, MongoDB and SQL</h3>
+<h4 align="center">Full Sail University Web Dev student + A 4Geeks Academy bootcamp graduate</h4>
 
-Welcome to my GitHub profile.  
-I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI bootcamp student with **@4GeeksAcademy** 🧠
+- 🔭 I’m currently working on [my personal portfolio/blog.](https://www.phillipcantu.com/)
 
-> _Last Update: September 8, 2025_
+- 🌱 I’m currently learning **Next.js 16+**
+
+- 👯 I’m looking to collaborate on **Open-source React/Next.js projects, beginner-friendly AI/ML tools, or full-stack apps.**
+
+- 🤝 I’m looking for help with **Improving backend architecture and testing best practices.**
+
+- 📝 I sometimes blog at [https://www.phillipcantu.com/blog](https://www.phillipcantu.com/blog)
+
+- 📫 How to reach me **hello@phillipcantu.com**
+
+- 📄 Resume available at [https://resume.phillipcantu.com/](https://resume.phillipcantu.com/)
 
 ---
 
@@ -11,56 +22,38 @@ I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI boo
 
 ![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML5-E44D26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![DOM](https://img.shields.io/badge/DOM--Manipulation-264de4?style=flat&logo=javascript&logoColor=white)
-![Fetch API](https://img.shields.io/badge/Fetch%20API-5C6BC0?style=flat&logo=javascript&logoColor=white)
+![REST API](https://img.shields.io/badge/REST--API-009688?style=flat&logo=apachespark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Team Collaboration](https://img.shields.io/badge/GitHub%20Teams-%232C3E50?style=flat&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnubash&logoColor=white)
 
 ### Currently Learning
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST--API-009688?style=flat&logo=apachespark&logoColor=white)
-![Async/Await](https://img.shields.io/badge/Async/Await-000000?style=flat&logo=javascript&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ### Experienced With
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![PixiJS](https://img.shields.io/badge/PixiJS-D33030?style=flat&logo=html5&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-### Familiar With
-
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bolt.new](https://img.shields.io/badge/Bolt.new-000000?style=flat&logo=thunder&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor.ai-6C47FF?style=flat&logo=visualstudiocode&logoColor=white)
-![Lovable.dev](https://img.shields.io/badge/Lovable.dev-FF69B4?style=flat&logo=heart&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## 🚀 Simple Projects
+## 🚀 Projects
 
-| Project                                                                                                             | Description                                              |
-| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| 👨‍💻 [ReactJS App](https://github.com/hereisphil/react-avocado-app)                                                   | ReactJS social-media-style SPA (under development)       |
-| ✅ [To-do List App](https://github.com/hereisphil/todo-list)                                                        | A browser To-Do List app with JavaScript localStorage    |
-| 🎯 [Excuse Generator](https://github.com/hereisphil/excuse-generator)                                               | Simple JS project built for fun – part of 4Geeks prework |
-| 📸 [Instagram Post Layout](https://github.com/hereisphil/hereisphil-instagram-post-layout)                          | Semantic HTML + CSS layout inspired by Instagram         |
-| 🖼️ [Instagram Photo Feed (Bootstrap)](https://github.com/hereisphil/hereisphil-instagram-photo-feed-with-bootstrap) | Responsive photo grid built with Bootstrap               |
-| 💳 [Bootstrap Payment Form](https://github.com/hereisphil/html5-bootstrap-form)                                     | Mobile-friendly payment form UI                          |
+| Project                                                                       | Description                                                                |
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 🦄 [Random Anime Quotes](https://random-anime-quote-fullstackapp.vercel.app/) | User-friendly Anime App built with Next.js, SQLite + Prisma ORM            |
+| 👨‍💻 [PhillipCantu.com](https://www.phillipcantu.com/)                          | Personal portfolio + Blog built with Next.js & Tailwind (work in progress) |
+| 🎯 [Avocado App](https://react-avocado-app.netlify.app/)                      | 1st React.js project showcasing a strong foundation                        |
 
 ---
 
@@ -68,25 +61,8 @@ I'm a Web Dev student at **Full Sail University** 🎓 and a Full Stack + AI boo
 
 **4Geeks Academy** (Online)  
 _Certificate in Full Stack Development with AI_
-Expected Graduation: Nov 2025
+Graduated: Nov 2025
 
 **Full Sail University** (Online)  
 _Bachelor of Science in Web Design & Development_
-Expected Graduation: Feb 2027  
-GPA: 3.9
-
-**Le Cordon Bleu College of Culinary Arts** – Scottsdale, AZ  
-_Associate of Occupational Studies, Culinary Arts_
-Graduated: August 2024
-
----
-
-## 📬 Reach Me
-
-- 📧 <thereisphil@gmail.com>
-- [🔗 LinkedIn](https://www.linkedin.com/in/phillipcantu)
-- [🐦 Twitter](https://x.com/AstroAdAstra)
-
----
-
-> _"Learning in public and loving the grind."_ 🚀
+Expected Graduation: Feb 2027
