@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack web developer with experience in React.js, Node.js, TypeScript, MongoDB and SQL</h3>
 <h4 align="center">Full Sail University Web Dev student & 4Geeks Academy bootcamp graduate</h4>
 
-🔭 I’m currently working on <a href="https://www.phillipcantu.com/" target="_blank" rel="noopener noreferrer">my personal portfolio/blog.</a>
+- 🔭 I’m currently working on <a href="https://www.phillipcantu.com/" target="_blank" rel="noopener noreferrer">my personal portfolio/blog.</a>
 
 - 🌱 I’m currently learning **Next.js 16+**
 
