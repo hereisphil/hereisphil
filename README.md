@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack web developer with experience in React.js, Node.js, TypeScript, MongoDB and SQL</h3>
 <h4 align="center">Full Sail University Web Dev student + A 4Geeks Academy bootcamp graduate</h4>
 
-- 🔭 I’m currently working on [my personal portfolio/blog.](https://www.phillipcantu.com/)
+- 🔭 I’m currently working on <a href="https://www.phillipcantu.com/" target="_blank" rel="noopener noreferrer">my personal portfolio/blog.</a>
 
 - 🌱 I’m currently learning **Next.js 16+**
 
@@ -10,11 +10,11 @@
 
 - 🤝 I’m looking for help with **Improving backend architecture and testing best practices.**
 
-- 📝 I sometimes blog at [https://www.phillipcantu.com/blog](https://www.phillipcantu.com/blog)
+- 📝 I sometimes blog at <a href="https://www.phillipcantu.com/blog" target="_blank" rel="noopener noreferrer">phillipcantu.com/blog</a>
 
-- 📫 How to reach me **hello@phillipcantu.com**
+- 📫 How to reach me <a href="mailto:hello@phillipcantu.com">hello@phillipcantu.com</a>
 
-- 📄 Resume available at [https://resume.phillipcantu.com/](https://resume.phillipcantu.com/)
+- 📄 Resume available at <a href="https://resume.phillipcantu.com" target="_blank" rel="noopener noreferrer">resume.phillipcantu.com</a>
 
 ---
 
@@ -49,11 +49,11 @@
 
 ## 🚀 Projects
 
-| Project                                                                       | Description                                                                |
-| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 🦄 [Random Anime Quotes](https://random-anime-quote-fullstackapp.vercel.app/) | User-friendly Anime App built with Next.js, SQLite + Prisma ORM            |
-| 👨‍💻 [PhillipCantu.com](https://www.phillipcantu.com/)                          | Personal portfolio + Blog built with Next.js & Tailwind (work in progress) |
-| 🎯 [Avocado App](https://react-avocado-app.netlify.app/)                      | 1st React.js project showcasing a strong foundation                        |
+| Project                                                                                                                            | Description                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 🦄 <a href="https://random-anime-quote-fullstackapp.vercel.app/" target="_blank" rel="noopener noreferrer">Random Anime Quotes</a> | User-friendly Anime App built with Next.js, SQLite + Prisma ORM            |
+| 👨‍💻 <a href="https://www.phillipcantu.com" target="_blank" rel="noopener noreferrer">PhillipCantu.com</a>                           | Personal portfolio + Blog built with Next.js & Tailwind (work in progress) |
+| 🎯 <a href="https://react-avocado-app.netlify.app" target="_blank" rel="noopener noreferrer">Avocado App</a>                       | 1st React.js project showcasing a strong foundation                        |
 
 ---
 
@@ -66,3 +66,5 @@ Graduated: Nov 2025
 **Full Sail University** (Online)  
 _Bachelor of Science in Web Design & Development_
 Expected Graduation: Feb 2027
+_<a href="https://www.phillipcantu.com/letter.pdf" target="_blank" rel="noopener noreferrer">Verification Letter</a>_
+_<a href="https://www.phillipcantu.com/transcript.pdf" target="_blank" rel="nopener noreferrer">Transcripts</a>_
