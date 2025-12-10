@@ -60,8 +60,9 @@
 ## 📘 Education
 
 **4Geeks Academy** (Online)  
-_Certificate in Full Stack Development with AI_
+_Certificate: Full Stack Software Developer with AI_
 Graduated: Nov 2025
+_<a href="https://www.phillipcantu.com/certificate.pdf" target="_blank" rel="noopener noreferrer">Certificate</a>_
 
 **Full Sail University** (Online)  
 _Bachelor of Science in Web Design & Development_
