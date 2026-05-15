@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Phillip Cantu</h1>
 <h3 align="center">Full-stack web developer with experience in React.js, Node.js, TypeScript, MongoDB and SQL</h3>
-<h4 align="center">Full Sail University Web Dev student & 4Geeks Academy bootcamp graduate</h4>
+<h4 align="center">Currently: Working as an Apprentice at <a href="https://flatironschool.com/courses/work-integrated-programs/" target="_new" rel="noopener noreferrer">Flatiron School</a></h4>
 
-- 🔭 I’m currently working on <a href="https://app-track-frontend.vercel.app/" target="_blank" rel="noopener noreferrer">App Track</a>. My personal MERN job application tracker.
+<!-- - 🔭 I’m currently working on <a href="https://app-track-frontend.vercel.app/" target="_blank" rel="noopener noreferrer">App Track</a>. My personal MERN job application tracker. 
 
 - 🌱 I’m currently learning, no mastering, **MERN in TypeScript + Deployment**
 
@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Improving backend architecture and testing best deployment and Docker practices.**
 
-- 📝 I sometimes blog at <a href="https://www.phillipcantu.com/blog" target="_blank" rel="noopener noreferrer">phillipcantu.com/blog</a>
+ 📝 I sometimes blog at <a href="https://www.phillipcantu.com/blog" target="_blank" rel="noopener noreferrer">phillipcantu.com/blog</a> -->
 
 - 📫 How to reach me <a href="mailto:hello@phillipcantu.com">hello@phillipcantu.com</a>
 
@@ -45,6 +45,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-Jest%20%7C%20Playwright-99425B?style=flat)
 
+<!--
 ## 🚀 Projects
 
 | Project                                                                                                                            | Description                                                                |
@@ -53,18 +54,33 @@
 | 🦄 <a href="https://random-anime-quote-fullstackapp.vercel.app/" target="_blank" rel="noopener noreferrer">Random Anime Quotes</a> | User-friendly Anime App built with Next.js, SQLite + Prisma ORM            |
 | 👨‍💻 <a href="https://www.phillipcantu.com" target="_blank" rel="noopener noreferrer">PhillipCantu.com</a>                           | Personal portfolio + Blog built with Next.js & Tailwind (work in progress) |
 | 🎯 <a href="https://react-avocado-app.netlify.app" target="_blank" rel="noopener noreferrer">Avocado App</a>                       | 1st React.js project showcasing a strong foundation                        |
-
+-->
 ---
+
 
 ## 📘 Education
 
-**4Geeks Academy** (Online)  
-_Certificate: Full Stack Software Developer with AI_
-Graduated: Nov 2025
+**Flatiron School** (Online)<br />
+_Certificate: AI & Data Science_<br />
+Expected Graduation: March 2027<br />
+_This is part of the <a href="https://flatironschool.com/courses/work-integrated-programs/" target="_new" rel="noopener noreferrer">Accelerated AI Engineering Immersive</a> program_
+
+**Full Sail University** (Online)<br />
+_Bachelor of Science in Web Design & Development_<br />
+Expected Graduation: Feb 2027<br />
+_<a href="https://www.phillipcantu.com/letter.pdf" target="_blank" rel="noopener noreferrer">Verification Letter</a>_<br />
+_<a href="https://www.phillipcantu.com/transcript.pdf" target="_blank" rel="nopener noreferrer">Transcripts</a>_
+
+**4Geeks Academy** (Online)<br />
+_Certificate: Full Stack Software Developer with AI_<br />
+Graduated: Nov 2025<br />
 _<a href="https://www.phillipcantu.com/certificate.pdf" target="_blank" rel="noopener noreferrer">Certificate</a>_
 
-**Full Sail University** (Online)  
-_Bachelor of Science in Web Design & Development_
-Expected Graduation: Feb 2027
-_<a href="https://www.phillipcantu.com/letter.pdf" target="_blank" rel="noopener noreferrer">Verification Letter</a>_
-_<a href="https://www.phillipcantu.com/transcript.pdf" target="_blank" rel="nopener noreferrer">Transcripts</a>_
+---
+
+## 👨‍💻 Work
+**Title**:Full-stack Software Apprentice<br />
+**Employer**: Flatiron School<br />
+**Location**: Remote<br />
+**Start Date**: April 2026<br />
+_This is part of the <a href="https://flatironschool.com/courses/work-integrated-programs/" target="_new" rel="noopener noreferrer">Accelerated AI Engineering Immersive</a> program_
