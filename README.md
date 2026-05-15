@@ -61,7 +61,7 @@
 ## 📘 Education
 
 **Flatiron School** (Online)<br />
-_Certificate: AI & Data Science_<br />
+Certificate: AI & Data Science<br />
 Expected Graduation: March 2027<br />
 _This is part of the <a href="https://flatironschool.com/courses/work-integrated-programs/" target="_new" rel="noopener noreferrer">Accelerated AI Engineering Immersive</a> program_
 
@@ -72,14 +72,14 @@ _<a href="https://www.phillipcantu.com/letter.pdf" target="_blank" rel="noopener
 _<a href="https://www.phillipcantu.com/transcript.pdf" target="_blank" rel="nopener noreferrer">Transcripts</a>_
 
 **4Geeks Academy** (Online)<br />
-_Certificate: Full Stack Software Developer with AI_<br />
+Certificate: Full Stack Software Developer with AI<br />
 Graduated: Nov 2025<br />
 _<a href="https://www.phillipcantu.com/certificate.pdf" target="_blank" rel="noopener noreferrer">Certificate</a>_
 
 ---
 
 ## 👨‍💻 Work
-**Title**:Full-stack Software Apprentice<br />
+**Title**: Full-stack Software Apprentice<br />
 **Employer**: Flatiron School<br />
 **Location**: Remote<br />
 **Start Date**: April 2026<br />
