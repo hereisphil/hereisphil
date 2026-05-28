@@ -12,10 +12,6 @@
 
  📝 I sometimes blog at <a href="https://www.phillipcantu.com/blog" target="_blank" rel="noopener noreferrer">phillipcantu.com/blog</a> -->
 
-- 📫 How to reach me <a href="mailto:hello@phillipcantu.com">hello@phillipcantu.com</a>
-
-- 📄 Resume available at <a href="https://resume.phillipcantu.com" target="_blank" rel="noopener noreferrer">resume.phillipcantu.com</a>
-
 ---
 
 ## Technical Skills
