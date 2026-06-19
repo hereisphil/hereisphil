@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phillip Cantu</h1>
-<h3 align="center">Full-stack web developer with experience in React.js, Node.js, TypeScript, MongoDB and SQL</h3>
-<h4 align="center">Currently: Working as an Apprentice at <a href="https://flatironschool.com/courses/work-integrated-programs/" target="_new" rel="noopener noreferrer">Flatiron School</a></h4>
+<h3 align="center">Software Engineer Apprentice at <a href="https://hgraph.com/" target="_new" rel="noopener noreferrer">Hgraph</a></h3>
+<h4 align="center">Full-stack web developer | JavaScript/Typecript, React/Next, Node, Python, SQL/No-SQL</h4>
 
 <!-- - 🔭 I’m currently working on <a href="https://app-track-frontend.vercel.app/" target="_blank" rel="noopener noreferrer">App Track</a>. My personal MERN job application tracker. 
 
@@ -56,16 +56,16 @@
 
 ## 📘 Education
 
-**Flatiron School** (Online)<br />
-Certificate: AI & Data Science<br />
-Expected Graduation: March 2027<br />
-_This is part of the <a href="https://flatironschool.com/courses/work-integrated-programs/" target="_new" rel="noopener noreferrer">Accelerated AI Engineering Immersive</a> program_
-
 **Full Sail University** (Online)<br />
 _Bachelor of Science in Web Design & Development_<br />
 Expected Graduation: Feb 2027<br />
 _<a href="https://www.phillipcantu.com/letter.pdf" target="_blank" rel="noopener noreferrer">Verification Letter</a>_<br />
 _<a href="https://www.phillipcantu.com/transcript.pdf" target="_blank" rel="nopener noreferrer">Transcripts</a>_
+
+**Flatiron School** (Online)<br />
+Certificate: AI & Data Science<br />
+Expected Graduation: March 2027<br />
+_This is part of the <a href="https://flatironschool.com/courses/work-integrated-programs/" target="_new" rel="noopener noreferrer">Accelerated AI Engineering Immersive</a> program_
 
 **4Geeks Academy** (Online)<br />
 Certificate: Full Stack Software Developer with AI<br />
