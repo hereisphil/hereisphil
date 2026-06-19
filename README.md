@@ -71,12 +71,3 @@ _This is part of the <a href="https://flatironschool.com/courses/work-integrated
 Certificate: Full Stack Software Developer with AI<br />
 Graduated: Nov 2025<br />
 _<a href="https://www.phillipcantu.com/certificate.pdf" target="_blank" rel="noopener noreferrer">Certificate</a>_
-
----
-
-## 👨‍💻 Work
-**Title**: Full-stack Software Apprentice<br />
-**Employer**: Flatiron School<br />
-**Location**: Remote<br />
-**Start Date**: April 2026<br />
-_This is part of the <a href="https://flatironschool.com/courses/work-integrated-programs/" target="_new" rel="noopener noreferrer">Accelerated AI Engineering Immersive</a> program_
