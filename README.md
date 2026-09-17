@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Phillip Cantu</h1>
-<h3 align="center">Software Engineer Apprentice at <a href="https://hgraph.com/" target="_new" rel="noopener noreferrer">Hgraph</a></h3>
 <h4 align="center">Full-stack web developer | JavaScript/Typecript, React/Next, Node, Python, SQL/No-SQL</h4>
 
 🔭 I’m currently working on <a href="https://github.com/hereisphil/escape-room-suite" target="_blank" rel="noopener noreferrer">Escape Room Suite</a>. A Turborepo Monorepo of 3 Apps<br />#1 Web app Admin Dashboard with camera feed to live view the rooms, send messages, and override puzzles - React.<br />#2 Mobile app for the client to interact with the puzzles and receives messages - React Native.<br />#3 Tablet app to display the timer, admin messages, and receive communication from the Admins in the escape room itself - React Native.<br />All interconnected realtime with an Express/Socket.io websockets. 100% Typescript.
@@ -53,6 +52,13 @@
 -->
 ---
 
+## 👨‍💻 Work
+
+Software Engineer Apprentice at <a href="https://hgraph.com/" target="_new" rel="noopener noreferrer">Hgraph</a><br />
+June-August (3 months), 2026<br />
+_View full scope of work at <a href="https://www.phillipcantu.com/hgraph" target="_blank" rel="noopener noreferrer">phillipcantu.com/hgraph</a>_
+
+---
 
 ## 📘 Education
 
@@ -60,7 +66,7 @@
 _Bachelor of Science in Web Design & Development_<br />
 Expected Graduation: Dec 2026<br />
 _<a href="https://www.phillipcantu.com/letter.pdf" target="_blank" rel="noopener noreferrer">Verification Letter</a>_<br />
-_<a href="https://www.phillipcantu.com/transcript.pdf" target="_blank" rel="nopener noreferrer">Transcripts</a>_
+_<a href="https://www.phillipcantu.com/transcript.pdf" target="_blank" rel="noopener noreferrer">Transcripts</a>_
 
 **Flatiron School** (Online)<br />
 Certificate: AI & Data Science<br />
