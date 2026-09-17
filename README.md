@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer Apprentice at <a href="https://hgraph.com/" target="_new" rel="noopener noreferrer">Hgraph</a></h3>
 <h4 align="center">Full-stack web developer | JavaScript/Typecript, React/Next, Node, Python, SQL/No-SQL</h4>
 
-<!-- - 🔭 I’m currently working on <a href="https://app-track-frontend.vercel.app/" target="_blank" rel="noopener noreferrer">App Track</a>. My personal MERN job application tracker. 
-
+🔭 I’m currently working on <a href="https://github.com/hereisphil/escape-room-suite" target="_blank" rel="noopener noreferrer">Escape Room Suite</a>. A Turborepo Monorepo of 3 Apps<br />#1 Web app Admin Dashboard with camera feed to live view the rooms, send messages, and override puzzles - React.<br />#2 Mobile app for the client to interact with the puzzles and receives messages - React Native.<br />#3 Tablet app to display the timer, admin messages, and receive communication from the Admins in the escape room itself - React Native.<br />All interconnected realtime with an Express/Socket.io websockets. 100% Typescript.
+<!-- - 
 - 🌱 I’m currently learning, no mastering, **MERN in TypeScript + Deployment**
 
 - 👯 I’m looking to collaborate on **Open-source React/Next.js projects, beginner-friendly AI/ML tools, or full-stack MERN apps.**
@@ -58,7 +58,7 @@
 
 **Full Sail University** (Online)<br />
 _Bachelor of Science in Web Design & Development_<br />
-Expected Graduation: Feb 2027<br />
+Expected Graduation: Dec 2026<br />
 _<a href="https://www.phillipcantu.com/letter.pdf" target="_blank" rel="noopener noreferrer">Verification Letter</a>_<br />
 _<a href="https://www.phillipcantu.com/transcript.pdf" target="_blank" rel="nopener noreferrer">Transcripts</a>_
 
