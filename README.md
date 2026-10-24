@@ -68,11 +68,6 @@ Expected Graduation: Dec 2026<br />
 _<a href="https://www.phillipcantu.com/docs/letter.pdf" target="_blank" rel="noopener noreferrer">Verification Letter</a>_<br />
 _<a href="https://www.phillipcantu.com/docs/transcript.pdf" target="_blank" rel="noopener noreferrer">Transcripts</a>_
 
-**Flatiron School** (Online)<br />
-Certificate: AI & Data Science<br />
-Expected Graduation: March 2027<br />
-_This is part of the <a href="https://flatironschool.com/work-integrated#programs" target="_new" rel="noopener noreferrer">Accelerated AI Engineering Immersive</a> program_
-
 **4Geeks Academy** (Online)<br />
 Certificate: Full Stack Software Developer with AI<br />
 Graduated: Nov 2025<br />
