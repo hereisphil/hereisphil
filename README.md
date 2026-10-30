@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phillip Cantu</h1>
 <h4 align="center">Full-stack web developer | JavaScript/Typecript, React/Next, Node, Python, SQL/No-SQL</h4>
 
-🔭 I’m currently working on <a href="https://github.com/hereisphil/escape-room-suite" target="_blank" rel="noopener noreferrer">Escape Room Suite</a>. A Turborepo Monorepo of 3 Apps<br />#1 Web app Admin Dashboard with camera feed to live view the rooms, send messages, and override puzzles - React.<br />#2 Mobile app for the client to interact with the puzzles and receives messages - React Native.<br />#3 Tablet app to display the timer, admin messages, and receive communication from the Admins in the escape room itself - React Native.<br />All interconnected realtime with an Express/Socket.io websockets. 100% Typescript.
+<!-- 🔭 I’m currently working on <a href="https://github.com/hereisphil/escape-room-suite" target="_blank" rel="noopener noreferrer">Escape Room Suite</a>. A Turborepo Monorepo of 3 Apps<br />#1 Web app Admin Dashboard with camera feed to live view the rooms, send messages, and override puzzles - React.<br />#2 Mobile app for the client to interact with the puzzles and receives messages - React Native.<br />#3 Tablet app to display the timer, admin messages, and receive communication from the Admins in the escape room itself - React Native.<br />All interconnected realtime with an Express/Socket.io websockets. 100% Typescript. -->
 <!-- - 
 - 🌱 I’m currently learning, no mastering, **MERN in TypeScript + Deployment**
 
@@ -33,14 +33,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-
-### Currently Learning / Expanding
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-Jest%20%7C%20Playwright-99425B?style=flat)
 
-<!--
+<!-- ### Currently Learning / Expanding
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
 ## 🚀 Projects
 
 | Project                                                                                                                            | Description                                                                |
@@ -54,9 +52,16 @@
 
 ## 👨‍💻 Work
 
+Software Engineer at <a href="https://hgraph.com/" target="_new" rel="noopener noreferrer">Hgraph</a><br />
+October 2026 -> Present <br />
+
 Software Engineer Apprentice at <a href="https://hgraph.com/" target="_new" rel="noopener noreferrer">Hgraph</a><br />
 June-August (3 months), 2026<br />
-_View full scope of work at <a href="https://www.phillipcantu.com/hgraph" target="_blank" rel="noopener noreferrer">phillipcantu.com/hgraph</a>_
+_View full scope of work at <a href="https://www.phillipcantu.com/hgraph" target="_blank" rel="noopener noreferrer">phillipcantu.com/hgraph</a>_<br />
+_View Flatiron School interview <a href="https://www.flatironschool.com/blog/meet-phillip-cantu-ai-apprentice" target="_blank" rel="noopener noreferrer">"Meet Phillip Cantu, AI Apprentice"</a>_
+
+Software Engineer Apprentice at <a href="https://www.flatironschool.com/work-integrated#programs" target="_new" rel="noopener noreferrer">Flatiron School AI Engineering Immersive</a><br />
+April-May (2 months), 2026<br />
 
 ---
 
